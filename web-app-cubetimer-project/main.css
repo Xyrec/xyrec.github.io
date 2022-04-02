@@ -1,0 +1,20 @@
+body {
+    background-color: #32353B !important;
+    color: white !important;
+}
+
+.bg-dark {
+    background-color: #292B2F !important;
+}
+
+h1 {
+    margin-top: 2%;
+}
+
+#cubeTimer {
+    font-size: 120px;
+}
+
+#cubeScrambler {
+    font-size: 72px;
+}
